@@ -1,0 +1,2 @@
+C:\Users\nelso\Desktop\IPCA\LP2\TP\TP\obj\Debug\TP LP2.csprojAssemblyReference.cache
+C:\Users\nelso\Desktop\IPCA\LP2\TP\TP\obj\Debug\TP LP2.csproj.CoreCompileInputs.cache
